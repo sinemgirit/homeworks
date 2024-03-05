@@ -1,10 +1,4 @@
-﻿
-
-
-
-
-
-SiparisNumarasıYaz();
+﻿SiparisNumarasıYaz();
 
 Console.WriteLine("Sipariş Numarası seçiniz ");
 string secim=Console.ReadLine();
@@ -25,24 +19,18 @@ switch (secim)
 		break;
 
 	default:
+		Console.WriteLine("Siparişe ait ürün bulunamadı");
 		break;
 }
-
 
 static void SiparisNumarasıYaz()
 
 {
 	Console.Clear();
-
-
 	Console.WriteLine("1) Kalem");
 	Console.WriteLine("2) Silgi");
 	Console.WriteLine("3) Defter");
 	Console.WriteLine("4) Kalemlik");
 	Console.WriteLine("0) Çıkış");
 	Console.WriteLine();
-
 }
-
-
-
