@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDoWhile", "WhileDoWhil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{746DEAAA-25BE-45CD-84C7-2A83DDB43C53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumber", "RandomNumber\RandomNumber.csproj", "{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{746DEAAA-25BE-45CD-84C7-2A83DDB43C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{746DEAAA-25BE-45CD-84C7-2A83DDB43C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{746DEAAA-25BE-45CD-84C7-2A83DDB43C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
