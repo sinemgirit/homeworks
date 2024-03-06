@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{DF3A2BF9-A1D6-4AB3-A3F2-A4DF16D7B7FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{DF3A2BF9-A1D6-4AB3-A3F2-A4DF16D7B7FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForDongusu", "ForDongusu\ForDongusu.csproj", "{E44C1245-7897-4659-8D1E-FF36E425E870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForDongusu", "ForDongusu\ForDongusu.csproj", "{E44C1245-7897-4659-8D1E-FF36E425E870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDoWhile", "WhileDoWhile\WhileDoWhile.csproj", "{50C0B4EF-C546-41CC-BCDF-96D67AB1710C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileDoWhile", "WhileDoWhile\WhileDoWhile.csproj", "{50C0B4EF-C546-41CC-BCDF-96D67AB1710C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{746DEAAA-25BE-45CD-84C7-2A83DDB43C53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{746DEAAA-25BE-45CD-84C7-2A83DDB43C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumber", "RandomNumber\RandomNumber.csproj", "{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomNumber", "RandomNumber\RandomNumber.csproj", "{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInformation", "StudentInformation\StudentInformation.csproj", "{6932C3FD-4835-48F3-871C-290467561BDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A5EE64-AA03-43E2-89B5-DA8C94DD9305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6932C3FD-4835-48F3-871C-290467561BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6932C3FD-4835-48F3-871C-290467561BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6932C3FD-4835-48F3-871C-290467561BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6932C3FD-4835-48F3-871C-290467561BDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
