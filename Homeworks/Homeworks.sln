@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomNumber", "RandomNumbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInformation", "StudentInformation\StudentInformation.csproj", "{6932C3FD-4835-48F3-871C-290467561BDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMetod", "StringMetod\StringMetod.csproj", "{422A4AD3-23A1-4DBD-97AD-B489319639F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6932C3FD-4835-48F3-871C-290467561BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6932C3FD-4835-48F3-871C-290467561BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6932C3FD-4835-48F3-871C-290467561BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422A4AD3-23A1-4DBD-97AD-B489319639F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422A4AD3-23A1-4DBD-97AD-B489319639F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422A4AD3-23A1-4DBD-97AD-B489319639F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422A4AD3-23A1-4DBD-97AD-B489319639F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
